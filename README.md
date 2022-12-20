@@ -2,7 +2,7 @@
 
 Eu sou o Guilherme! 🖖
 
-- 👨‍🍳 Cozinheiro que começou o processo de migração para Programação em março de 2021
+- 👨‍🍳 Eu era cozinheiro e comecei meu processo de transição de carreira para Programação em março de 2021
 - 🔭 Hoje sou estagiário na Vivo, atuando com Python na parte de automação no setor de engenharia de Backbone IP
 - 🌱 Estudante de Análise e desenvolvimento de Sistemas e no momento estou focado na linguagem C#
 

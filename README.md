@@ -3,8 +3,8 @@
 Eu sou o Guilherme! 🖖
 
 - 👨‍🍳 Eu era cozinheiro e comecei meu processo de transição de carreira para Programação em março de 2021
-- 🔭 Hoje sou estagiário na Vivo, atuando com Python na parte de automação no setor de engenharia de Backbone IP
-- 🌱 Estudante de Análise e desenvolvimento de Sistemas
+- 🔭 Fui estagiário na Vivo, atuando com Python na parte de automação no setor de engenharia de Backbone IP e fui efetivado na área como desenvolvedor junior
+- 🌱 Formado em Análise e desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bonilha-rogante/">
@@ -12,13 +12,11 @@ Eu sou o Guilherme! 🖖
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonilha-rogante&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gui-Python" height="30" width="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img align="center" alt="Gui-Django" height="30" width="40" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="Gui-Django" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  
+
 </div>
   
   ##

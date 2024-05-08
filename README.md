@@ -12,7 +12,7 @@ Eu sou o Guilherme! 🖖
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonilha-rogante&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Python" height="30" width="40" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <img align="center" alt="Gui-Django" height="30" width="40" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img align="center" alt="Gui-Django" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
